@@ -9,7 +9,7 @@ if !exists("g:uncrustify_debug")
 endif
 
 " Specify path to your Uncrustify configuration file.
-let g:uncrustify_cfg_file_path = "auto"
+" let g:uncrustify_cfg_file_path = "auto"
 
 " Log debug message
 function! s:UncrustifyDebug(text)
